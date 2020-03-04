@@ -104,7 +104,6 @@
     <MicrosoftExtensionsCachingSqlServerPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsCachingSqlServerPackageVersion>
     <MicrosoftExtensionsCachingStackExchangeRedisPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsCachingStackExchangeRedisPackageVersion>
     <MicrosoftExtensionsConfigurationAbstractionsPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsConfigurationAbstractionsPackageVersion>
-    <MicrosoftExtensionsConfigurationAzureKeyVaultPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsConfigurationAzureKeyVaultPackageVersion>
     <MicrosoftExtensionsConfigurationBinderPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsConfigurationBinderPackageVersion>
     <MicrosoftExtensionsConfigurationCommandLinePackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsConfigurationCommandLinePackageVersion>
     <MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>5.0.0-preview.2.20154.2</MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>
